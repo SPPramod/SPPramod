@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sppramod&show_icons=true&locale=en&layout=compact" alt="sppramod" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sppramod&show_icons=true&locale=en" alt="sppramod" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sppramod&" alt="sppramod" /></p>
